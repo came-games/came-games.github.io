@@ -1,17 +1,39 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <link href="/assets/fontawesome/6_5_2/css/fontawesome.css" rel="stylesheet" />
-    <link href="/assets/fontawesome/6_5_2/css/brands.css" rel="stylesheet" />
-  </head>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<i class="fa-brands fa-500px"></i>
-<span class="fa-brands fa-x-twitter"></span>
-<span class="fa-brands fa-youtube"></span>
-<span class="fa-brands fa-discord"></span>
-<span class="fa-brands fa-steam"></span>
-  sadfadsfds
+<head>
+    <link href="/assets/fontawesome/6_5_2/css/fontawesome.css" rel="stylesheet"/>
+    <link href="/assets/fontawesome/6_5_2/css/brands.css" rel="stylesheet"/>
+    <style>
+        .box {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100%;
+            width: 100%;
+
+        }
+
+        .box div {
+            display: flex;
+            flex-direction: column;
+        }
+        .box div div {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body style="background-color: black; width:100%; height: 100%">
+<div class="box">
+    <div>
+        <img src="assets/logo.webp"/>
+        <div><i class="fa-brands fa-x-twitter fa-3x"></i>
+            <i class="fa-brands fa-discord fa-3x"></i>
+            <i class="fa-brands fa-youtube fa-3x"></i>
+        </div>
+    </div>
+</div>
+
 </body>
 </html>
