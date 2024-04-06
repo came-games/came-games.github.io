@@ -1,75 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="580"
-   height="640"
-   viewBox="0 0 580 640"
-   version="1.1"
-   id="svg1"
-   xml:space="preserve"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#000000"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="1"
-     inkscape:cx="185.5"
-     inkscape:cy="364.5"
-     inkscape:window-width="2560"
-     inkscape:window-height="1346"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" /><defs
-     id="defs1">
-    <rect style="fill:#ffffff" id="shape" width="20" height="20"/>
-    <rect style="fill:#ffffff" id="shapeL" width="40" height="40"/>
-    <g id="letterC">
-        <use href="#shape" transform="scale(1, 5)"/>
-        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
-        <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
-    </g>
-    <g id="letterA">
-        <use href="#shape" transform="scale(1, 5)"/>
-        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
-        <use href="#shape" transform="translate(80 20) scale(1, 4)"/>
-    </g>
-    <g id="letterM">
-        <use href="#shape" transform="scale(1, 5)"/>
-        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
-        <use href="#shape" transform="translate(80 20) scale(1, 4)"/>
-        <use href="#shape" transform="translate(40 20) scale(1, 4)"/>
-    </g>
-    <g id="letterE">
-        <use href="#shape" transform="scale(1, 5)"/>
-        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
-        <use href="#shape" transform="translate(20, 40) scale(4, 1)"/>
-        <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
-    </g>
-    <g id="letterG">
-        <use href="#shape" transform="scale(1, 5)"/>
-        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
-        <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
-        <use href="#shape" transform="translate(60, 40) scale(2, 1)"/>
-        <use href="#shape" transform="translate(80, 60) scale(1, 1)"/>
-    </g>
-    <g id="letterS">
-        <use href="#shape" transform="translate(40 0) scale(1, 5)"/>
-        <use href="#shape" transform="translate(60 0) scale(2, 1)"/>
-        <use href="#shape" transform="translate(0 80) scale(2, 1)"/>
-    </g>
-</defs>
+<svg width="580" height="640" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <rect style="fill:#ffffff" id="shape" width="20" height="20"/>
+        <rect style="fill:#ffffff" id="shapeL" width="40" height="40"/>
+        <g id="letterC">
+            <use href="#shape" transform="scale(1, 5)"/>
+            <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+            <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
+        </g>
+        <g id="letterA">
+            <use href="#shape" transform="scale(1, 5)"/>
+            <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+            <use href="#shape" transform="translate(80 20) scale(1, 4)"/>
+        </g>
+        <g id="letterM">
+            <use href="#shape" transform="scale(1, 5)"/>
+            <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+            <use href="#shape" transform="translate(80 20) scale(1, 4)"/>
+            <use href="#shape" transform="translate(40 20) scale(1, 4)"/>
+        </g>
+        <g id="letterE">
+            <use href="#shape" transform="scale(1, 5)"/>
+            <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+            <use href="#shape" transform="translate(20, 40) scale(4, 1)"/>
+            <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
+        </g>
+        <g id="letterG">
+            <use href="#shape" transform="scale(1, 5)"/>
+            <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+            <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
+            <use href="#shape" transform="translate(60, 40) scale(2, 1)"/>
+            <use href="#shape" transform="translate(80, 60) scale(1, 1)"/>
+        </g>
+        <g id="letterS">
+            <use href="#shape" transform="translate(40 0) scale(1, 5)"/>
+            <use href="#shape" transform="translate(60 0) scale(2, 1)"/>
+            <use href="#shape" transform="translate(0 80) scale(2, 1)"/>
+        </g>
+    </defs>
     <g id="logo">
         <g id="keyboard">
             <use href="#shapeL" transform="translate(30, 120) scale(7, 1)"/>
@@ -82,7 +50,7 @@
             <use href="#shapeL" transform="translate(110, 200) scale(5, 1)"/>
         </g>
         <g id="mouse">
-        <use href="#shapeL" transform="translate(390, 0) scale(1, 1)"/>
+            <use href="#shapeL" transform="translate(390, 0) scale(1, 1)"/>
             <use href="#shapeL" transform="translate(350, 40) scale(1, 5)"/>
             <use href="#shapeL" transform="translate(390, 80) scale(1, 4)"/>
             <use href="#shapeL" transform="translate(430, 40) scale(1, 5)"/>
