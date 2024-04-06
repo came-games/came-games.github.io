@@ -32,335 +32,75 @@
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" /><defs
-     id="defs1" /><g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2"><rect
-       style="display:inline;fill:#ffffff;stroke-width:1.29378"
-       id="rect1"
-       width="520"
-       height="280"
-       x="30"
-       y="120" /><rect
-       style="fill:#000000;stroke-width:1.32476"
-       id="rect2"
-       width="440"
-       height="200"
-       x="70"
-       y="160" /><rect
-       style="fill:#ffffff;stroke-width:1.26115"
-       id="rect3"
-       width="40"
-       height="40"
-       x="110"
-       y="280"
-       rx="0" /><rect
-       style="fill:#ffffff;stroke-width:2.82"
-       id="rect3-7"
-       width="200"
-       height="40"
-       x="190"
-       y="280"
-       rx="0" /><rect
-       style="fill:#ffffff;stroke-width:1.26115"
-       id="rect3-7-5"
-       width="40"
-       height="40"
-       x="430"
-       y="280"
-       rx="0" /><rect
-       style="fill:#ffffff;stroke-width:2.92946"
-       id="rect3-7-0"
-       width="215.82782"
-       height="40"
-       x="110"
-       y="200"
-       rx="0" /></g><g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"><g
-       id="g1"
-       transform="translate(-90,-60)"><rect
-         style="fill:#000000;stroke-width:1.26602"
-         id="rect5"
-         width="200"
-         height="280"
-         x="400"
-         y="60" /><rect
-         style="display:inline;fill:#ffffff;stroke-width:0.828803"
-         id="rect5-4"
-         width="120"
-         height="200"
-         x="440"
-         y="100" /><rect
-         style="fill:#000000;stroke-width:1.26114"
-         id="rect3-7-0-7-8"
-         width="40"
-         height="40"
-         x="100"
-         y="-520"
-         rx="0"
-         transform="rotate(90)" /><rect
-         style="fill:#ffffff;stroke-width:1.26114"
-         id="rect3-7-0-7-8-9"
-         width="40"
-         height="40"
-         x="60"
-         y="-520"
-         rx="0"
-         transform="rotate(90)" /></g></g><g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="text block"
-     style="fill:#ffffff"><g
-       id="g12"
-       inkscape:label="CAME"
-       transform="translate(-60,-60)"><g
-         id="g10"
-         inkscape:label="E"
-         transform="matrix(0,-0.5,0.5,0,230,680)"
-         style="display:inline;fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.780513"
-           id="rect7"
-           width="200"
-           height="40"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect8"
-           width="40"
-           height="200"
-           x="360"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect9"
-           width="40"
-           height="200"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect10"
-           width="40"
-           height="200"
-           x="280"
-           y="500" /></g><g
-         id="g4"
-         inkscape:label="M"
-         transform="matrix(0.5,0,0,0.5,260,230)"
-         style="display:inline;fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.780513"
-           id="rect4-8-3-5"
-           width="200"
-           height="40"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-8-3"
-           width="40"
-           height="200"
-           x="360"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4"
-           width="40"
-           height="200"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-8"
-           width="40"
-           height="200"
-           x="280"
-           y="500" /></g><g
-         id="g4-5-9"
-         inkscape:label="A"
-         transform="matrix(0.5,0,0,0.5,140,230)"
-         style="display:inline;fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.780513"
-           id="rect4-8-3-5-9-2"
-           width="200"
-           height="40"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-8-3-4-2"
-           width="40"
-           height="200"
-           x="360"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-4-0"
-           width="40"
-           height="200"
-           x="200"
-           y="500" /></g><g
-         id="g6"
-         inkscape:label="C"
-         transform="matrix(0.5,0,0,0.5,60,230)"
-         style="fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.654735"
-           id="rect6"
-           width="200"
-           height="40"
-           x="-320"
-           y="500"
-           transform="scale(-1,1)" /><rect
-           style="fill:#ffffff;stroke-width:0.654735"
-           id="rect6-9"
-           width="200"
-           height="40"
-           x="-320"
-           y="660"
-           transform="scale(-1,1)" /><rect
-           style="fill:#ffffff;stroke-width:0.654734"
-           id="rect6-9-1"
-           width="40"
-           height="200"
-           x="-160"
-           y="500"
-           transform="scale(-1,1)" /></g></g><g
-       id="g13"
-       inkscape:label="GAMES"
-       transform="translate(-100,-60)"><g
-         id="g11"
-         inkscape:label="S"
-         transform="matrix(0.5,0,0,0.5,480,350)"
-         style="fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.507153"
-           id="rect6-9-1-6-1-8-9"
-           width="120"
-           height="40"
-           x="-320"
-           y="660"
-           transform="scale(-1,1)" /><rect
-           style="fill:#ffffff;stroke-width:0.507153"
-           id="rect6-9-1-6-1-8-9-3"
-           width="120"
-           height="40"
-           x="-400"
-           y="500"
-           transform="scale(-1,1)" /><rect
-           style="fill:#ffffff;stroke-width:0.58561"
-           id="rect6-9-1-6-1-8-9-3-2"
-           width="40"
-           height="160"
-           x="-320"
-           y="500"
-           transform="scale(-1,1)" /></g><g
-         id="g10-1"
-         inkscape:label="E"
-         transform="matrix(0,-0.5,0.5,0,210,800)"
-         style="display:inline;fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.780513"
-           id="rect7-1"
-           width="200"
-           height="40"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect8-4"
-           width="40"
-           height="200"
-           x="360"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect9-8"
-           width="40"
-           height="200"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect10-0"
-           width="40"
-           height="200"
-           x="280"
-           y="500" /></g><g
-         id="g4-5"
-         inkscape:label="M"
-         transform="matrix(0.5,0,0,0.5,240,350)"
-         style="display:inline;fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.780513"
-           id="rect4-8-3-5-9"
-           width="200"
-           height="40"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-8-3-4"
-           width="40"
-           height="200"
-           x="360"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-4"
-           width="40"
-           height="200"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-8-6"
-           width="40"
-           height="200"
-           x="280"
-           y="500" /></g><g
-         id="g4-5-9-5"
-         inkscape:label="A"
-         transform="matrix(0.5,0,0,0.5,120,350)"
-         style="display:inline;fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.780513"
-           id="rect4-8-3-5-9-2-5"
-           width="200"
-           height="40"
-           x="200"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-8-3-4-2-9"
-           width="40"
-           height="200"
-           x="360"
-           y="500" /><rect
-           style="fill:#ffffff;stroke-width:0.780512"
-           id="rect4-4-0-5"
-           width="40"
-           height="200"
-           x="200"
-           y="500" /></g><g
-         id="g6-4"
-         inkscape:label="G"
-         transform="matrix(0.5,0,0,0.5,40,350)"
-         style="fill:#ffffff"><rect
-           style="fill:#ffffff;stroke-width:0.654735"
-           id="rect6-8"
-           width="200"
-           height="40"
-           x="-320"
-           y="500"
-           transform="scale(-1,1)" /><rect
-           style="fill:#ffffff;stroke-width:0.654735"
-           id="rect6-9-13"
-           width="200"
-           height="40"
-           x="-320"
-           y="660"
-           transform="scale(-1,1)" /><rect
-           style="fill:#ffffff;stroke-width:0.654734"
-           id="rect6-9-1-6"
-           width="40"
-           height="200"
-           x="-160"
-           y="500"
-           transform="scale(-1,1)" /><rect
-           style="fill:#ffffff;stroke-width:0.507153"
-           id="rect6-9-1-6-1"
-           width="40"
-           height="120"
-           x="-320"
-           y="580"
-           transform="scale(-1,1)" /><rect
-           style="fill:#ffffff;stroke-width:0.414089"
-           id="rect6-9-1-6-1-8"
-           width="80"
-           height="40"
-           x="-320"
-           y="580"
-           transform="scale(-1,1)" /></g></g></g></svg>
+     id="defs1">
+    <rect style="fill:#ffffff" id="shape" width="20" height="20"/>
+    <rect style="fill:#ffffff" id="shapeL" width="40" height="40"/>
+    <g id="letterC">
+        <use href="#shape" transform="scale(1, 5)"/>
+        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+        <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
+    </g>
+    <g id="letterA">
+        <use href="#shape" transform="scale(1, 5)"/>
+        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+        <use href="#shape" transform="translate(80 20) scale(1, 4)"/>
+    </g>
+    <g id="letterM">
+        <use href="#shape" transform="scale(1, 5)"/>
+        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+        <use href="#shape" transform="translate(80 20) scale(1, 4)"/>
+        <use href="#shape" transform="translate(40 20) scale(1, 4)"/>
+    </g>
+    <g id="letterE">
+        <use href="#shape" transform="scale(1, 5)"/>
+        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+        <use href="#shape" transform="translate(20, 40) scale(4, 1)"/>
+        <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
+    </g>
+    <g id="letterG">
+        <use href="#shape" transform="scale(1, 5)"/>
+        <use href="#shape" transform="translate(20, 0) scale(4, 1)"/>
+        <use href="#shape" transform="translate(20, 80) scale(4, 1)"/>
+        <use href="#shape" transform="translate(60, 40) scale(2, 1)"/>
+        <use href="#shape" transform="translate(80, 60) scale(1, 1)"/>
+    </g>
+    <g id="letterS">
+        <use href="#shape" transform="translate(40 0) scale(1, 5)"/>
+        <use href="#shape" transform="translate(60 0) scale(2, 1)"/>
+        <use href="#shape" transform="translate(0 80) scale(2, 1)"/>
+    </g>
+</defs>
+    <g id="logo">
+        <g id="keyboard">
+            <use href="#shapeL" transform="translate(30, 120) scale(7, 1)"/>
+            <use href="#shapeL" transform="translate(30, 160) scale(1, 6)"/>
+            <use href="#shapeL" transform="translate(70, 360) scale(12, 1)"/>
+            <use href="#shapeL" transform="translate(510, 120) scale(1, 6)"/>
+            <use href="#shapeL" transform="translate(110, 280) scale(1, 1)"/>
+            <use href="#shapeL" transform="translate(190, 280) scale(5, 1)"/>
+            <use href="#shapeL" transform="translate(430, 280) scale(1, 1)"/>
+            <use href="#shapeL" transform="translate(110, 200) scale(5, 1)"/>
+        </g>
+        <g id="mouse">
+        <use href="#shapeL" transform="translate(390, 0) scale(1, 1)"/>
+            <use href="#shapeL" transform="translate(350, 40) scale(1, 5)"/>
+            <use href="#shapeL" transform="translate(390, 80) scale(1, 4)"/>
+            <use href="#shapeL" transform="translate(430, 40) scale(1, 5)"/>
+        </g>
+    </g>
+    <g id="text">
+        <g id="came">
+            <use href="#letterC" transform="translate(60, 420)"/>
+            <use href="#letterA" transform="translate(180, 420)"/>
+            <use href="#letterM" transform="translate(300, 420)"/>
+            <use href="#letterE" transform="translate(420, 420)"/>
+        </g>
+        <g id="games">
+            <use href="#letterG" transform="translate(0, 540)"/>
+            <use href="#letterA" transform="translate(120, 540)"/>
+            <use href="#letterM" transform="translate(240, 540)"/>
+            <use href="#letterE" transform="translate(360, 540)"/>
+            <use href="#letterS" transform="translate(480, 540)"/>
+        </g>
+    </g>
+</svg>
