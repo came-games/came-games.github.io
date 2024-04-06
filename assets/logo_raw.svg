@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="580" height="640" xmlns="http://www.w3.org/2000/svg">
+<svg width="580" height="640"
+     style="background-color: #000000" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <rect style="fill:#ffffff" id="shape" width="20" height="20"/>
         <rect style="fill:#ffffff" id="shapeL" width="40" height="40"/>
