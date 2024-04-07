@@ -24,11 +24,11 @@
             <use href="#shapeL" transform="translate(430, 280) scale(1, 1)"/>
             <use href="#shapeL" transform="translate(110, 200) scale(5, 1)"/>
             <polygon style="fill: #ffffff"
-                     points="30 120, 310 120, 310 160, 70 160, 70 360, 510 360, 510 120, 550 120, 550 400, 30 400"/>
+                     points="3 12, 31 12, 31 16, 7 16, 7 36, 51 36, 51 12, 55 12, 55 40, 3 40" transform="scale(10,10)"/>
         </g>
         <g id="mouse">
             <use href="#shapeL" transform="translate(390, 0) scale(1, 1)"/>
-            <polygon style="fill: #ffffff" points="350 40, 390 40, 390 80, 430 80, 430 40, 470 40, 470 240, 350 240"/>
+            <polygon style="fill: #ffffff" points="0 0, 4 0, 4 4, 8 4, 8 0, 12 0, 12 20, 0 20" transform="translate(350, 40) scale(10,10)"/>
         </g>
     </g>
     <g id="text">
