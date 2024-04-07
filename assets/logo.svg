@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="64" height="64"
      style="background-color: black; fill:white" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="64" style="fill: black"/>
 <rect width="4" height="4" x="13" y="28"/>
 <rect width="20" height="4" x="21" y="28"/>
 <rect width="4" height="4" x="25" y="28"/>
